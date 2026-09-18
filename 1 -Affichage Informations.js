@@ -8,6 +8,5 @@ let email = prompt('quel est ton adresse e-mail? ');
 console.log(`ton nom est ${nom},
     ton prénom est ${prenom},
     tu as ${age} ans, 
-    ton sexe est ${sexe} et 
+    ton sexe est ${sexe} et
     ton adresse e-mail est ${email}.`);
-
