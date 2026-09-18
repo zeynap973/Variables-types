@@ -1,4 +1,4 @@
-const prompt = require("prompt-sync")()
+const prompt = require("prompt-sync")();
 let temperatureCelsius = Number(prompt("Entrez la température en degrés Celsius: "));
 let temperatureKelvin = temperatureCelsius + 273.15;
 
